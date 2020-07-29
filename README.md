@@ -1,1 +1,3 @@
-# HopBot
+HopBot
+
+  ** ABSTRACT:**

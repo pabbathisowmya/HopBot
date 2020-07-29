@@ -3,7 +3,7 @@
 ##  ABSTRACT:
  Hop bot is used to jump over any obstacle of height of comparable dimension to that of the bot. Motor, Springs and Gears are used for its proper functioning along with a pair of Non-motorized wheels.
 
-![Image](https://github.com/pabbathisowmya/HopBot/blob/master/Images/Mechanical%20cad.jpg)
+![Image](https://github.com/pabbathisowmya/HopBot/blob/master/Images/Arduino%20uno.jpg)
 
 ## INTRODUCTION:
  A jumping robot can cross the obstacle several times its own height and has a good ability to avoid risks. It can be applied to the occasion with complex and changeable environment, such as detection of planet surface, post disaster relief, and military reconnaissance. 

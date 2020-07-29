@@ -1,3 +1,3 @@
 HopBot
 
-  ** ABSTRACT:**
+  __ABSTRACT:__

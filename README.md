@@ -34,7 +34,7 @@
 #### _Mechanism:_
  the shaft of a DC Motor is connected to worm gear and worm gear is connected to worm wheel. When the shaft of motor rotates, the worm gear starts rotating and due to meshing worm wheel also rotates and transmission takes place. And this worm wheel is connected to a spur gear of 2pi/3 teeth through a shaft.
 
-![Image](https://github.com/pabbathisowmya/HopBot/blob/master/Images/Gears%20Arrangement.jpg)
+![Image](https://github.com/pabbathisowmya/HopBot/blob/master/Images/Gears%20Arangement.jpg)
  
 ### SPUR GEAR:
 #### _Design:_
@@ -57,13 +57,14 @@ Here we have used external spur gears.
 #### _Motto of usage:_
  light weight wheels of bigger dimension relative to the chassis are used so that the overall weight of the bot is low and because of the large dimension of the wheels the chassis becomes perpendicular to the ground when the gears begin to unroll to ensure that the impact due to jump is maximum in vertical direction and hence it will move to a greater height
  
-!Image(https://github.com/pabbathisowmya/HopBot/blob/master/Images/Wheel.jpg)
+![Image](https://github.com/pabbathisowmya/HopBot/blob/master/Images/Wheel.jpg)
 
 ### SHAFT:
 #### _Design:_
  shaft, usually in circular dimension in which its radius and length can be changed.
 #### _Motto of usage:_
  It is a rotating machine unit. This was used to transmit power from one part to another, or from a machine which produces power to a machine which absorbs power. The various members such as pulleys and gears are mounted on it.
+
 ## ELECTRICAL ASPECTS:
 
 ###BATTERY :
@@ -84,7 +85,6 @@ Here we have used external spur gears.
 
 ![Image](https://github.com/pabbathisowmya/HopBot/blob/master/Images/Arduino%20uno.jpg)
 
- 
 ### ACCELEROMETER:
 #### _Motto of usage:_
  It is electromechanical device and was used to sense the vibration, orientation and acceleration of a bot.
@@ -94,6 +94,8 @@ Here we have used external spur gears.
  Gyroscope was used to determine angular velocity orientation of bot.
 
 ### WORKFLOW:
+
+![Image](https://github.com/pabbathisowmya/HopBot/blob/master/Images/Work%20Flow.PNG)
 
 ### APPLICATIONS:
  Hop bot has a strong ability to overcome obstacles. It can be applied to the occasion with complex and changeable environment, such as detection of plane surface, post disaster relief and military reconnaissance.

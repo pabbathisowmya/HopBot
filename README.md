@@ -67,7 +67,7 @@ Here we have used external spur gears.
 
 ## ELECTRICAL ASPECTS:
 
-###BATTERY :
+### BATTERY :
 #### _Working:_
  When the anode and cathode of a battery is connected to form a circuit, a chemical reaction takes place between the anode and the electrolyte. This reaction causes electrons to flow through the circuit and back into the cathode where another chemical reaction takes place. 
 #### _Motto of usage:_ 

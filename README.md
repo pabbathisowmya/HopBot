@@ -107,7 +107,7 @@ Here we have used external spur gears.
 
 ### TEAM MEMBERS:
  1.	Anshul
- 2.	Sowmya
+ 2.	[https://github.com/pabbathisowmya]
  3.	Dushyant Yadav
  4.	Vishal Yadav
  5.	R. pranav

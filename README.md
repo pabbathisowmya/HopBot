@@ -7,6 +7,8 @@
 
 ## INTRODUCTION:
  A jumping robot can cross the obstacle several times its own height.Military and disaster management teams sometimes come across situations where they need a robot which can be operated in any terrain. There we need hop bot which occupies less space, could skip obstacles by jumping mechanism.
+ While designing we took hint from the hoping of locust and grasshopper. In nature, a locust will first orient its body to the desired direction with its forelegs and then propel its jumps via rapid movement of its hind legs, thereby converting stored energy to the acceleration of its body. 
+ Here we used the springs for replacing the muscle power. The spring has the advantages of strong energy storage, fast energy release, simple structure, and simple control.
 
 ## MECHANICAL ASPECTS: 
 
@@ -113,6 +115,7 @@ Here we have used external spur gears.
  3. [Virendra Yadav](https://github.com/virenyadav01)
 
 ### REFERENCE:
- While designing we took hint from the hoping of locust and grasshopper. In nature, a locust will first orient its body to the desired direction with its forelegs and then propel its jumps via rapid movement of its hind legs, thereby converting stored energy to the acceleration of its body. 
-
- During its jump phase, the center of mass (COM) of the locust's body travels along an almost perfect line. Here we used the springs for replacing the muscle power. The spring has the advantages of strong energy storage, fast energy release, simple structure, and simple control.
+ 1. [https://www.hindawi.com/journals/abb/2017/4780160/]
+ 2. [https://journals.sagepub.com/doi/full/10.5772/64200]
+ 3. [https://www.google.com/amp/s/spectrum.ieee.org/automaton/robotics/robotics-hardware/salto1p-is-the-most-amazing-jumping-robot-weve-ever-seen.amp.html]
+ 

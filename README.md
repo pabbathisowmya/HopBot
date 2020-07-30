@@ -3,7 +3,7 @@
 ##  ABSTRACT:
  Hop bot is used to jump over any obstacle of height of comparable dimension to that of the bot. Motor, Springs and Gears are used for its proper functioning along with a pair of Non-motorized wheels.
 
-![ I am centered ](https://github.com/pabbathisowmya/HopBot/blob/master/Images/Mechanical%20cad.jpg)
+![Image](https://github.com/pabbathisowmya/HopBot/blob/master/Images/Mechanical%20cad.jpg)
 
 ## INTRODUCTION:
  A jumping robot can cross the obstacle several times its own height.Military and disaster management teams sometimes come across situations where they need a robot which can be operated in any terrain. There we need hop bot which occupies less space, could skip obstacles by jumping mechanism.
@@ -26,7 +26,9 @@
 #### _Mechanism:_
  The shaft of a DC Motor is connected to worm gear and worm gear is connected to worm wheel. When the shaft of motor rotates, the worm gear starts rotating and due to meshing worm wheel also rotates and transmission takes place. And this worm wheel is connected to a spur gear of 2pi/3 teeth through a shaft.
 
+<center>
 ![Image](https://github.com/pabbathisowmya/HopBot/blob/master/Images/Gears%20Arangement.jpg)
+</center>
  
 ### SPUR GEAR:
 #### _Design:_
@@ -75,7 +77,7 @@ Here we have used external spur gears.
 #### _Position:_
  This arduino was placed outside of the board to reduce the weight of the bot and it was connected with wires to the motor. Here arduino uno was used since our bot doesn’t require high amount of power and lot of pins and memory space.
 
-![ I am centered ](https://github.com/pabbathisowmya/HopBot/blob/master/Images/Arduino%20uno.jpg)
+![Image](https://github.com/pabbathisowmya/HopBot/blob/master/Images/Arduino%20uno.jpg)
 
 ### ACCELEROMETER:
 #### _Motto of usage:_
@@ -106,8 +108,8 @@ Here we have used external spur gears.
  6.	[Jahnavi Tarale](https://github.com/janhavi729)
 
 ### MENTOR:
- 1.	[Dhruv seghal](https://github.com/Dhruv1064
- 2.[Suja](https://github.com/suja-g)
+ 1.	[Dhruv seghal](https://github.com/Dhruv1064)
+ 2. [Suja](https://github.com/suja-g)
  3. [Virendra Yadav](https://github.com/virenyadav01)
 
 ### REFERENCE:

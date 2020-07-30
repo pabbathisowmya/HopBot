@@ -27,7 +27,7 @@
  The shaft of a DC Motor is connected to worm gear and worm gear is connected to worm wheel. When the shaft of motor rotates, the worm gear starts rotating and due to meshing worm wheel also rotates and transmission takes place. And this worm wheel is connected to a spur gear of 2pi/3 teeth through a shaft.
 
 <center>
-![Image](https://github.com/pabbathisowmya/HopBot/blob/master/Images/Gears%20Arangement.jpg)
+<img src= "https://github.com/pabbathisowmya/HopBot/blob/master/Images/Gears%20Arangement.jpg">
 </center>
  
 ### SPUR GEAR:

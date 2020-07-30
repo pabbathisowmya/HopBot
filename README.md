@@ -75,7 +75,7 @@ Here we have used external spur gears.
 #### _Position:_
  This arduino was placed outside of the board to reduce the weight of the bot and it was connected with wires to the motor. Here arduino uno was used since our bot doesn’t require high amount of power and lot of pins and memory space.
 
-![Image](https://github.com/pabbathisowmya/HopBot/blob/master/Images/Arduino%20uno.jpg)
+![ I am centered ](https://github.com/pabbathisowmya/HopBot/blob/master/Images/Arduino%20uno.jpg)
 
 ### ACCELEROMETER:
 #### _Motto of usage:_
